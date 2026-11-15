@@ -1,3 +1,18 @@
+# Attention OCR — study repository
+
+This repository contains an existing attention-based OCR implementation and an accompanying `Attention_OCR_Masterclass.ipynb` notebook. It is not a claim of original authorship of the underlying OCR library.
+
+## Attribution and local work
+
+- The package metadata identifies [Ed Medvedev's attention-ocr](https://github.com/emedvedev/attention-ocr) as the upstream project.
+- The preserved [MIT license](LICENSE.md) credits Qi Guo and Yuntian Deng.
+- The local history includes the addition of `Attention_OCR_Masterclass.ipynb`; consult the notebook and commit history for this repository's study material.
+- The inherited implementation targets TensorFlow 1.x. Compatibility with current TensorFlow versions is not established here.
+
+The original usage documentation follows below. Its package installation command refers to the published `aocr` package, not necessarily this checkout.
+
+---
+
 ## Installation
 
 ```
